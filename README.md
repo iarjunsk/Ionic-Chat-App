@@ -11,3 +11,4 @@ For the complete tutorial series on how to build this app, Please visit
 
 [Tutorial on Ionic Chat](http://www.arjunsk.com/html5/part-2-ionic-xmpp-chat-client-using-strophe-js/)
 
+**NOTE:** This is a simple client implementation. There is no dbms to store the message. I will soon update this, with my dbms implementation.
