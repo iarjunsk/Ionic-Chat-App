@@ -1,6 +1,6 @@
 # Ionic-Chat-App
 
-![Ionic Chat](http://i2.wp.com/www.arjunsk.com/wp-content/uploads/2016/05/background.png)
+![Ionic Chat](https://raw.githubusercontent.com/arjunsk/Ionic-Chat-App/master/screenshot.png)
 
 This is XMPP chat Client build using ionic Cordova. This is a very basic implementation.
 
