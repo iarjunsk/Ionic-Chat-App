@@ -1,5 +1,9 @@
 # Ionic-Chat-App
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/kpPTfcZs2AmDLYbvJ42HTnR3/arjunsk/Ionic-Chat-App'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/kpPTfcZs2AmDLYbvJ42HTnR3/arjunsk/Ionic-Chat-App.svg' />
+</a>
+
 ![Ionic Chat](https://raw.githubusercontent.com/arjunsk/Ionic-Chat-App/master/screenshot.png)
 
 This is XMPP chat Client build using ionic Cordova. This is a very basic implementation.
